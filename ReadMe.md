@@ -3,6 +3,7 @@
 This repository is a sandbox for experimenting with blockchain and Web3 projects using .move
 
 ## Contents
+- Captain Comet NFT 🦸‍♂️
 - simple Wallet (upgraded version 🔜)
 - Simple Calculator (upgraded version coming soon 📌)
 - Simple Hello from "Sharp" 🫶
@@ -10,6 +11,7 @@ This repository is a sandbox for experimenting with blockchain and Web3 projects
 
 ## Disclaimer
 This is for educational and experimental purposes only. Not production ready.
+
 
 
 
